@@ -1,4 +1,8 @@
 # Code_Quiz
+Notes:
+- I spent roughly 60-70 minutes in total on these 3 questions.
+- I upgraded both of react questions (2, 3) to TypeScript as I prefer the added security of static type checking and am more used to working with TypeScript as opposed to vanilla JS. To upgrade it I simply ran the following commands: yarn add typescript @types/node @types/react @types/react-dom @types/jest and then npx tsc --init to initalise the tsconfig file.
+- I'm very unhappy with the styling of my work, however with such limited time constraints I had to sacrafice looks in favour of functionality. 
 
 ## Question 1
 Notes:
